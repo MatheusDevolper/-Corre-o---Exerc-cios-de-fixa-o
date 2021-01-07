@@ -1,0 +1,13 @@
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\bin\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.exe
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\bin\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.deps.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\bin\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.runtimeconfig.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\bin\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.runtimeconfig.dev.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\bin\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.dll
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\bin\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.pdb
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\obj\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.csprojAssemblyReference.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\obj\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.AssemblyInfoInputs.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\obj\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.AssemblyInfo.cs
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\obj\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.csproj.CoreCompileInputs.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\obj\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.dll
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\obj\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.pdb
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\24-11 Correcao - fixacao, fucoes\obj\Debug\netcoreapp3.1\24-11 Correcao - fixacao, fucoes.genruntimeconfig.cache
